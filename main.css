@@ -9,6 +9,12 @@ body {
 h1{
     text-align: center;
 }
+h2{
+    text-align: center;
+}
+h1{
+    font-family: "impact"
+}
 /* 1 */
 #padding-class1{
     border: 2px solid green;
@@ -33,4 +39,9 @@ h1{
 #number-one{
     Color: yellow;
     Font-size: 45px;
+}
+/* 5 */
+.codingimage img{
+    width: 250px;
+    height: 250px;
 }
