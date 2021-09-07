@@ -5,3 +5,27 @@ body {
 .wrapper {
     border: 10px solid #FFED33
 }
+/* 1 */
+h1{
+    text-align: center;
+}
+/* 1 */
+#padding-class1{
+    border: 2px solid green;
+    margin: 50px 50px 50px 50px;
+/*
+    padding-top: 10px
+    padding-right: 10px
+    padding-bottom: 10px
+    padding-left: 10px
+*/
+    padding: 10px 10px 10px 10px;
+}
+/* 2 */
+#padding-class2{
+    height: 60px;
+    background: white;
+    border: 15px solid yellow;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 20px 20px 20px;
+}
